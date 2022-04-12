@@ -1,4 +1,4 @@
-# Análise de Dados
+# Análise de Dados - Cotação e atualização automática 
 
 Análise de Dados utilizando Python e MySQL
 Programa criado para a validação de informações do banco de dados interno da empresa, com as informações de disponibilidade e custo de produtos em seus respectivos fornecedores.
