@@ -17,9 +17,7 @@ def bd_firebird():
 
         dados_produto.append(dados)
         martriz_produtos.append(dados_produto) # Inserindo todos os dados retornados pela consulta na matriz
-    
-    martriz_produtos.sort() # ordenando a matriz para realizar a busca binária
-
+   
     conn.close # Fechando conexão
 
     return martriz_produtos
